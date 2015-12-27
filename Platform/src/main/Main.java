@@ -14,7 +14,7 @@ public class Main {
 		System.out.println("test 4 fra Brynjars MBP");
 		System.out.println("test 5 MBP Åse");
 		System.out.println("test 6 MBP Åse");
-			
+		System.out.println("test 7 MBP Åse");	
 		
 		
 	}
