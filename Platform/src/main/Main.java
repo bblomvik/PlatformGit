@@ -11,6 +11,7 @@ public class Main {
 		System.out.println("test 2");
 		System.out.println("test 3 fra Astrids MacBook Air");
 		System.out.println("test 4 fra Brynjars MBP");
+		System.out.println("test 7 Kleiva 1 kjøkken");
 		
 		
 		
