@@ -13,7 +13,7 @@ public class Main {
 		System.out.println("test 4 fra Brynjars MBP");
 		System.out.println("test 7 Kleiva 1 kjøkken");
 		System.out.println("test 8 Kleiva 1 kjøkken 2");
-		
+		System.out.println("test 9 BrynjarBranch");
 		
 		
 	}
