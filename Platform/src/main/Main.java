@@ -10,6 +10,8 @@ public class Main {
 		System.out.println("test 1");
 		System.out.println("test 2");
 		System.out.println("test 3 fra Astrids MacBook Air");
+		System.out.println("test 4 fra Brynjars MBP");
+		
 		
 		
 	}
