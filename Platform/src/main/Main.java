@@ -7,6 +7,8 @@ public class Main {
 		Controller c = new Controller();
 		UserInterface ui = new UserInterface(c);
 		
+		System.out.println("test 1");
+		
 		
 	}
 	
