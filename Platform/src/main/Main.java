@@ -8,6 +8,7 @@ public class Main {
 		UserInterface ui = new UserInterface(c);
 		
 		System.out.println("test 1");
+		System.out.println("test 2");
 		
 		
 	}
